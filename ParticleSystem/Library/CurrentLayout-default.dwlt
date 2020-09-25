@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -69,7 +69,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Tall
+  m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 208
+  controlID: 59
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 214
+  controlID: 106
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -324,20 +324,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u96EA\u82B1"
+    - "Assets/\u7C92\u5B50\u7279\u6548"
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - "Assets/\u96EA\u82B1"
+  - "Assets/\u7C92\u5B50\u7279\u6548"
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\User\Desktop\Unity_HW_ParticleSystem\ParticleSystem
+  m_LastProjectPath: C:\Users\User\Desktop\UNITY_HW_PARTICLESYSTEM\ParticleSystem
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae3d0000
-    m_LastClickedID: 15790
-    m_ExpandedIDs: 000000000c3c000000ca9a3b
+    m_SelectedIDs: a0330000
+    m_LastClickedID: 13216
+    m_ExpandedIDs: 000000008c33000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000c3c000000ca9a3b
+    m_ExpandedIDs: 000000008c330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,7 +392,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -546,9 +546,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.0854969, y: 1.7548313, z: 2.3923264}
+    m_Target: {x: 0.65447235, y: -2.782281, z: 3.923273}
     speed: 2
-    m_Value: {x: -1.0854969, y: 1.7548313, z: 2.3923264}
+    m_Value: {x: 0.65447235, y: -2.782281, z: 3.923273}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -594,13 +594,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08914407, y: -0.9104003, z: 0.26999798, w: -0.30056372}
+    m_Target: {x: 0.02880317, y: -0.96439683, z: 0.23478925, w: 0.11836645}
     speed: 2
-    m_Value: {x: -0.0895484, y: -0.9099427, z: 0.26986226, w: -0.3019271}
+    m_Value: {x: -0.028802775, y: 0.9643836, z: -0.23478603, w: -0.118364826}
   m_Size:
-    m_Target: 33.05102
+    m_Target: 26.872574
     speed: 2
-    m_Value: 31.627771
+    m_Value: 28.13882
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5acaffff
-      m_LastClickedID: -13734
-      m_ExpandedIDs: 2efaffff
+      m_SelectedIDs: 4a330000
+      m_LastClickedID: 13130
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
